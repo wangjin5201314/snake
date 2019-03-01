@@ -1,4 +1,4 @@
-let drawSize = 6;//网格的个数
+let drawSize = 10;//网格的个数
 let time;//蛇移动的定时器
 let snakePos;//蛇的位置
 let direction;//蛇移动的方向
